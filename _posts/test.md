@@ -1,1 +1,8 @@
-test
+---
+layout: post
+title: 测试
+date: 2015-12-07
+categories: blog
+tags: [测试]
+description: 试试看
+---
