@@ -47,9 +47,7 @@ defaults:
 
 # Comments 
 comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : jtyuan
+  provider : disqus
   disqus :
       short_name : jtyuan
 
