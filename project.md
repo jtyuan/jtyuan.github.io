@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "project"
-description: "Projects?"
+title: "Project"
+description: "Projects"
 header-img: "img/zhihu.jpg"
 ---
 
-
-
-
+Nothing Yet
