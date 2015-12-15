@@ -16,7 +16,7 @@ description: Publications during my undergraduate years, listed in reverse chron
 - **Using Mobile Services Based on SNS to Support On-demand Collaborations**
 	- _Y. Sun, K. Wei, X. Zhuang, **T. Jiang**, W. Jiao_
 	- Submitted to IEEE Transactions on Services Computing (TSC)
-	- [link](jtyuan.github.io/files/Using Mobile Services_TSC_20151128.pdf)
+	- [link](http://jtyuan.github.io/files/Using Mobile Services_TSC_20151128.pdf)
 
 - **Using Mobile Services Based on SNS to Recommend Who, How, and When to Collaborate**
 	- _**T. Jiang**, Y. Sun, Z. Qiao_
