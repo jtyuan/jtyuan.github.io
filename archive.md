@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "你看到的，是我练习千字文的所有文章"
+description: "All articles are listed here in reverse chronological order"
 header-img: "img/orange.jpg"
 ---
 
