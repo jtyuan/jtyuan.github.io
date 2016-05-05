@@ -19,7 +19,7 @@ description: Publications during my undergraduate years, listed in reverse chron
 	- [link](http://jtyuan.github.io/files/Using Mobile Services_TSC_20151128.pdf)
 
 - **A Personalized Service for Scheduling Express Delivery Using Courier Trajectories**
-	- _**Y. Sun, K. Wei, Z. Qiao, J. Wen, **T. Jiang**_
+	- _Y. Sun, K. Wei, Z. Qiao, J. Wen, **T. Jiang**_
 	- Accepted by 2016 IEEE International Conference on Web Services (ICWS)
 	- [link](http://jtyuan.github.io/files/A Personalized Service for Scheduling Express Delivery Using Courier Trajectories.pdf)
 
